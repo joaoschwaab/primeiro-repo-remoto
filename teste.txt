@@ -1,3 +1,7 @@
 git tete
 tesssste
 eu modifiquwi 
+<<<<<<< HEAD
+=======
+eeeeeeeeeeeeeeeeeeeeeeeee
+>>>>>>> nova-tela-cadastro-produto
